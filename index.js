@@ -7,5 +7,5 @@ if (isDemo) {
 }
 // And in multiple files
 for (let i = 0; i < 5; i++) {
-    console.log("Iteration: " + i);
+    console.log("Iteration is: " + i);
 }
